@@ -1,6 +1,7 @@
 {
   "name": "final-portfolio",
   "version": "0.1.0",
+  "homepage": "https://WenJJ2000.github.io",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
@@ -20,6 +21,8 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build && cp ./build/index.html ./build/404.html",
     "test": "react-scripts test",

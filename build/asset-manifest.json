@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ffc8043c.js",
+    "static/media/Poster_design.jpg": "/static/media/Poster_design.372bc4d887cdd799f949.jpg",
+    "static/media/AblockLogo.jpg": "/static/media/AblockLogo.4153d532d5e11b1ce00e.jpg",
+    "static/media/des_pic.jpg": "/static/media/des_pic.f6be135dd949db9173d8.jpg",
+    "static/media/avatar.jpg": "/static/media/avatar.47246a0761e0455ad616.jpg",
+    "static/media/nus_logo.jfif": "/static/media/nus_logo.f073a2caae263d0e5d06.jfif",
+    "static/media/game-dev.svg": "/static/media/game-dev.7e1a6c88b963a15b4058270df1b798e5.svg",
+    "static/media/design.svg": "/static/media/design.b0dea6a3ea559ae8aca50e9728094939.svg",
+    "index.html": "/index.html",
+    "main.ffc8043c.js.map": "/static/js/main.ffc8043c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ffc8043c.js"
+  ]
+}
