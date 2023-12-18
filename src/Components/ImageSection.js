@@ -1,9 +1,12 @@
 import React from "react";
 import styled from "styled-components";
+import Fullbody from "../img/fullbody.JPG";
 
 const ImageSection = () => (
   <ImageSectionStyled>
-    <div className="left-content">{/* <img src={} alt="" /> */}</div>
+    <div className="left-content">
+      <img src={Fullbody} alt="" />
+    </div>
     <div className="right-content">
       <h4>
         I am <span>Jun Jie</span>
