@@ -12,10 +12,14 @@ const ImageSection = () => (
         I am <span>Jun Jie</span>
       </h4>
       <p className="paragraph">
-        My Speciality is in Robotics. Beyond Robotics, I am also interested in
-        upcoming technologies such as Machine Learning and Artificial
-        Intelligence. I also have a keen interest in Computer Science,
-        especially full stack development.
+        I am an enthusiastic, self-motivated, reliable, responsible and hard
+        working person. Having been put through many stressful situation
+        throughout my time in Commando and as the Block Head for Eusoff A block,
+        I am able to work well under pressure, being adaptable to all
+        challenging situations. With a specialisation in Robotic as well as a
+        2nd Major in Computer Science, I want to be able to command both the
+        Hardware and Software of Robotics, giving me more flexibility in the
+        things I can create.
       </p>
       <div className="about-info">
         <div className="info-title">

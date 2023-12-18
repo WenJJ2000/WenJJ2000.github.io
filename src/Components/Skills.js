@@ -9,11 +9,15 @@ const Skills = () => (
     <Title title={"My Skills"} span={"my skills"} />
     <InnerLayout>
       <div className="skills">
-        <ProgressBar title={"Python"} width={"90%"} />
-        <ProgressBar title={"JAVASCRIPT"} width={"90%"} />
-        <ProgressBar title={"React JS"} width={"60%"} />
-        <ProgressBar title={"Photoshop"} width={"70%"} />
-        <ProgressBar title={"Java"} width={"70%"} />
+        <ProgressBar title={"Python"} width={"70%"} text={"70%"} />
+        <ProgressBar title={"JAVASCRIPT"} width={"80%"} text={"80%"} />
+        <ProgressBar title={"PostgreSQL"} width={"70%"} text={"70%"} />
+        <ProgressBar title={"HTMl"} width={"80%"} text={"80%"} />
+        <ProgressBar title={"React JS"} width={"80%"} text={"80%"} />
+        <ProgressBar title={"CSS"} width={"80%"} text={"80%"} />
+        <ProgressBar title={"Java"} width={"70%"} text={"70%"} />
+        <ProgressBar title={"Node JS"} width={"75%"} text={"75%"} />
+        <ProgressBar title={"Photoshop"} width={"70%"} text={"70%"} />
       </div>
     </InnerLayout>
   </SkillsStyled>

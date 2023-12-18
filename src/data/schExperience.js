@@ -1,4 +1,4 @@
-import NUS_LOGO from "../img/logos/nus_logo.jfif";
+import NUS_LOGO from "../img/logos/nus_logo.jpg";
 import SAJC_LOGO from "../img/logos/SAJC_LOGO.png";
 // import KTH_LOGO from "../img/logos/KTH_Royal_Institute_of_Technology_logo.png";
 
@@ -10,9 +10,10 @@ const schExperience = [
     year: "Aug 2019 - Present",
     logo: NUS_LOGO,
     title:
-      "Bachelor of Engineering (Honours) in Biomedical engineering and 2nd Major in Computer Science",
+      "Bachelor of Engineering (Honours) in Biomedical engineering, 2nd Major in Computer Science",
     subTitle: "National University of Singapore",
-    text: "Studied Biomedical Engineering at the National University of Singapore. I am currently in my third year of my undergraduate studies.",
+    text: `Studying Biomedical Engineering at the National University of Singapore, focusing in the area of Robotics with 
+    a second major in Computer Science. I am currently in my third year (Y3S1) of my undergraduate studies.`,
   },
   // {
   //   year: "Jan 2024 - May 2024",
