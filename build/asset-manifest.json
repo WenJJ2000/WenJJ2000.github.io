@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.127c7073.js",
+    "main.js": "/static/js/main.2d39b5f3.js",
     "static/media/fullbody.JPG": "/static/media/fullbody.4eab450e5195592bcf16.JPG",
     "static/media/avatar.jpg": "/static/media/avatar.ed0d0f18fde238b70490.jpg",
     "static/media/web3_proj.jpg": "/static/media/web3_proj.a606c7f7a95d13433bde.jpg",
@@ -10,9 +10,9 @@
     "static/media/game-dev.svg": "/static/media/game-dev.7e1a6c88b963a15b4058270df1b798e5.svg",
     "static/media/design.svg": "/static/media/design.b0dea6a3ea559ae8aca50e9728094939.svg",
     "index.html": "/index.html",
-    "main.127c7073.js.map": "/static/js/main.127c7073.js.map"
+    "main.2d39b5f3.js.map": "/static/js/main.2d39b5f3.js.map"
   },
   "entrypoints": [
-    "static/js/main.127c7073.js"
+    "static/js/main.2d39b5f3.js"
   ]
 }
