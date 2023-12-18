@@ -5,16 +5,13 @@ import web3 from "../img/project/web3_proj.jpg";
 
 const portfolios = [
   {
-    categories: ["Design", "Canva"],
-    image: ABC_LOGO,
-    title: "Logo Design",
-    text: "Created using Canva",
-  },
-  {
-    categories: ["Design", "Canva"],
-    image: poster,
-    title: "Poster Design",
-    text: "Created using Canva",
+    title: "Data Analysis App",
+    image: des,
+    categories: ["Python", "Data Analysis", "Software Engineering"],
+    text: "Data analysis web app to help users find the right data analysis method as part of EG2605",
+    links: {
+      github: "https://github.com/WenJJ2000/understats",
+    },
   },
   {
     title: "Discrete Event Simulator",
@@ -33,6 +30,18 @@ const portfolios = [
     links: {
       github: "https://github.com/WenJJ2000/Web3.0",
     },
+  },
+  {
+    categories: ["Design", "Canva"],
+    image: ABC_LOGO,
+    title: "Logo Design",
+    text: "Created using Canva",
+  },
+  {
+    categories: ["Design", "Canva"],
+    image: poster,
+    title: "Poster Design",
+    text: "Created using Canva",
   },
 ];
 
