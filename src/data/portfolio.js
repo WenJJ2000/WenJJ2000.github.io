@@ -2,8 +2,18 @@ import ABC_LOGO from "../img/project/AblockLogo.jpg";
 import poster from "../img/project/Poster_design.jpg";
 import des from "../img/project/des_pic.jpg";
 import web3 from "../img/project/web3_proj.jpg";
+import CI from "../img/project/CIX-6.png";
 
 const portfolios = [
+  {
+    title: "Continuous Integration",
+    image: CI,
+    categories: ["Java", "Continuous Intergration", "Software Engineering"],
+    text: "Private Continuous Integration server for private repo",
+    links: {
+      github: "https://github.com/DD2480-Group-3/Assignment-2-CI",
+    },
+  },
   {
     title: "Data Analysis App",
     image: des,

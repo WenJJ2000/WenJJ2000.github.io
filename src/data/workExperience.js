@@ -8,11 +8,11 @@ const workExperience = [
   {
     year: "May 2022 - Present",
     logo: AZEN_LOGO,
-    title: "Full Stack Developer Intern",
+    title: "Frontend Developer Intern",
     subTitle: "Azendian Solutions Pte Ltd",
     text: `This internship allowed me to put my React JS, Html, CSS and PostgreSQl skills to good use. I had the chance to design, create and implement 
     2 full modules during my time here. This allowed me to gain valuable insights on the developmental process and workflow of 
-    a tech company. My problem solving skills were put to the test as we created 15+ different individual components and scripts.`,
+    a tech company. My problem solving skills were put to the test as we created 15+ different individual fullstack components and scripts.`,
   },
   {
     year: "Aug 2022 - May 2023",
