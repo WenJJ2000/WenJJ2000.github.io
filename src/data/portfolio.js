@@ -6,6 +6,15 @@ import CI from "../img/project/CIX-6.png";
 
 const portfolios = [
   {
+    title: "Linguify",
+    image: CI,
+    categories: ["JavaScript", "React", "Software Engineering"],
+    text: "A project for CS2103 taken on exchange in KTH Stockholm",
+    links: {
+      github: "https://dh2642-c7916.web.app/",
+    },
+  },
+  {
     title: "Continuous Integration",
     image: CI,
     categories: ["Java", "Continuous Intergration", "Software Engineering"],
