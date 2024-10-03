@@ -1,6 +1,6 @@
 import NUS_LOGO from "../img/logos/nus_logo.jpg";
 import SAJC_LOGO from "../img/logos/SAJC_LOGO.png";
-// import KTH_LOGO from "../img/logos/KTH_Royal_Institute_of_Technology_logo.png";
+import KTH_LOGO from "../img/logos/KTH_Royal_Institute_of_Technology_logo.png";
 
 /**
  * Latest experience at the front of the array
@@ -15,13 +15,13 @@ const schExperience = [
     text: `Studying Biomedical Engineering at the National University of Singapore, focusing in the area of Robotics with 
     a second major in Computer Science. I am currently in my third year (Y3S1) of my undergraduate studies.`,
   },
-  // {
-  //   year: "Jan 2024 - May 2024",
-  //   logo: KTH_LOGO,
-  //   title: "Exchange Programme",
-  //   subTitle: "KTH Royal Institute of Technology",
-  //   text: "I went on exchange at the KTH Royal Institute of Technology in Sweden. I am taking courses in Biomedical Engineering and Computer Science.",
-  // },
+  {
+    year: "Jan 2024 - May 2024",
+    logo: KTH_LOGO,
+    title: "Exchange Programme",
+    subTitle: "KTH Royal Institute of Technology",
+    text: "I went on exchange at the KTH Royal Institute of Technology in Sweden (Y3S2). I took courses in Biomedical Engineering and Computer Science.",
+  },
   {
     year: "Feb 2021 - May 2021",
     logo: NUS_LOGO,

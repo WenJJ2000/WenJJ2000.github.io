@@ -3,13 +3,14 @@ import poster from "../img/project/Poster_design.jpg";
 import des from "../img/project/des_pic.jpg";
 import web3 from "../img/project/web3_proj.jpg";
 import CI from "../img/project/CIX-6.png";
+import TRANS from "../img/project/translate-logo.png";
 
 const portfolios = [
   {
     title: "Linguify",
-    image: CI,
+    image: TRANS,
     categories: ["JavaScript", "React", "Software Engineering"],
-    text: "A project for CS2103 taken on exchange in KTH Stockholm",
+    text: "A project for CS3240 taken on exchange in KTH Stockholm. \nRan out of api calls",
     links: {
       github: "https://dh2642-c7916.web.app/",
     },
@@ -24,7 +25,7 @@ const portfolios = [
     },
   },
   {
-    title: "Data Analysis App",
+    title: "Data Analysis App (in progress)",
     image: des,
     categories: ["Python", "Data Analysis", "Software Engineering"],
     text: "Data analysis web app to help users find the right data analysis method as part of EG2605",

@@ -18,6 +18,7 @@ const Skills = () => (
         <ProgressBar title={"Java"} width={"70%"} />
         <ProgressBar title={"Node JS"} width={"75%"} />
         <ProgressBar title={"Photoshop"} width={"70%"} />
+        <ProgressBar title={"Git"} width={"90%"} />
       </div>
     </InnerLayout>
   </SkillsStyled>
