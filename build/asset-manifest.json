@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.66b9c455.js",
+    "main.js": "/static/js/main.8870620e.js",
     "static/media/fullbody.JPG": "/static/media/fullbody.4eab450e5195592bcf16.JPG",
     "static/media/avatar.jpg": "/static/media/avatar.ed0d0f18fde238b70490.jpg",
     "static/media/web3_proj.jpg": "/static/media/web3_proj.a606c7f7a95d13433bde.jpg",
     "static/media/Poster_design.jpg": "/static/media/Poster_design.372bc4d887cdd799f949.jpg",
     "static/media/CIX-6.png": "/static/media/CIX-6.f59cd1ee56852814b8f0.png",
     "static/media/AblockLogo.jpg": "/static/media/AblockLogo.4153d532d5e11b1ce00e.jpg",
+    "static/media/KTH_Royal_Institute_of_Technology_logo.png": "/static/media/KTH_Royal_Institute_of_Technology_logo.b05d250ccf0a2b52bbb9.png",
     "static/media/des_pic.jpg": "/static/media/des_pic.f6be135dd949db9173d8.jpg",
+    "static/media/translate-logo.png": "/static/media/translate-logo.62a1e2e9ac8aa4b087db.png",
     "static/media/game-dev.svg": "/static/media/game-dev.7e1a6c88b963a15b4058270df1b798e5.svg",
     "static/media/design.svg": "/static/media/design.b0dea6a3ea559ae8aca50e9728094939.svg",
     "index.html": "/index.html",
-    "main.66b9c455.js.map": "/static/js/main.66b9c455.js.map"
+    "main.8870620e.js.map": "/static/js/main.8870620e.js.map"
   },
   "entrypoints": [
-    "static/js/main.66b9c455.js"
+    "static/js/main.8870620e.js"
   ]
 }
