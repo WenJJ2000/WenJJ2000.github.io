@@ -57,7 +57,10 @@ const App = () => {
             <Route index element={<HomePage />} />
             <Route path="resume" element={<ResumePage />} />
             <Route path="about" element={<AboutPage />} />
-            <Route path="portfolios" element={<PortfoliosPage />} />
+            <Route
+              path="portfolios"
+              element={<PortfoliosPage isDark={!checked} />}
+            />
             <Route path="*" element={<NotFoundPage />} />
           </Route>
         </Routes>

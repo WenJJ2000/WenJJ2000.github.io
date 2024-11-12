@@ -13,7 +13,7 @@ const schExperience = [
       "Bachelor of Engineering (Honours) in Biomedical engineering, 2nd Major in Computer Science",
     subTitle: "National University of Singapore",
     text: `Studying Biomedical Engineering at the National University of Singapore, focusing in the area of Robotics with 
-    a second major in Computer Science. I am currently in my third year (Y3S1) of my undergraduate studies.`,
+    a second major in Computer Science. I am currently in my final year (Y4S1) of my undergraduate studies.`,
   },
   {
     year: "Jan 2024 - May 2024",
