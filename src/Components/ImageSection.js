@@ -1,6 +1,6 @@
-import React from "react";
-import styled from "styled-components";
-import Fullbody from "../img/fullbody.JPG";
+import React from 'react';
+import styled from 'styled-components';
+import Fullbody from '../img/fullbody.JPG';
 
 const ImageSection = () => (
   <ImageSectionStyled>
@@ -13,13 +13,14 @@ const ImageSection = () => (
       </h4>
       <p className="paragraph">
         I am an enthusiastic, self-motivated, reliable, responsible and hard
-        working person. Having been put through many stressful situation
-        throughout my time in Commando and as the Block Head for Eusoff A block,
-        I am able to work well under pressure, being adaptable to all
-        challenging situations. With a specialisation in Robotic as well as a
-        2nd Major in Computer Science, I want to be able to command both the
-        Hardware and Software of Robotics, giving me more flexibility in the
-        things I can create.
+        working individual with a thirst for knowledge. Having been put through
+        many stressful situation throughout my time in Commando battalion, as
+        the Block Head for Eusoff A block as well as being in the Singapore
+        Handball team, I am able to work well under pressure, can think quick on
+        my feet and adapt well to any environments. With a specialization in
+        Robotic as well as a 2nd Major in Computer Science, I am able to command
+        both the Hardware and Software of Robotics, giving me more flexibility
+        in the things I can create.
       </p>
       <div className="about-info">
         <div className="info-title">
