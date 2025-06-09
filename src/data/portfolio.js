@@ -15,7 +15,7 @@ const portfolios = [
       'Expo CLI',
       'Software Engineering',
     ],
-    text: 'A project for CODE_EXP 2025 to help raise awareness of scams in Singapore.(STILL IN PROGRESS)',
+    text: 'A project for CODE_EXP 2025 to help raise awareness of scams in Singapore. (STILL IN PROGRESS)',
     links: {},
   },
   {
