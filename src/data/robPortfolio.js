@@ -12,7 +12,8 @@ const robPortfolio = [
       'Debian',
       'object detection',
     ],
-    text: 'A project for FYP 2024 to design a compact wheeled robot for gait analysis using computer vision.',
+    text: `Done as a Final Year Thesis to design a compact mobile robot capable of realtime gait analysis using computer vision,
+            while being able to track the moving person.`,
     links: {
       github: 'https://github.com/WenJJ2000/RobotGaitAnalysis',
     },
